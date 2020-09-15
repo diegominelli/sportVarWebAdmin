@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sportVarWebAdmin"
+    }
+  },
+  "defaultProject": "sportVarWebAdmin",
+  "cli": {
+    "analytics": "54bd39ee-f57c-477f-a008-ffe9cbd8dd95"
+  }
 }
